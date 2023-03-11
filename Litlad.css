@@ -141,7 +141,7 @@ table, th, td{
 }
 
 .copy-right{
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
     background-color: #000;
     color: #fff;
@@ -152,7 +152,7 @@ table, th, td{
     color: yellow;
     border: 2px solid blue;
     background-color: #000;
-    border-radius: 20px;
+    border-radius: 15px;
     margin-top: 416px;
 }
 
