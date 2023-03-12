@@ -48,8 +48,8 @@ li{
 
 section{
     background-color: rgba(14, 65, 206, 0.336);
-    display: flex;
-    justify-content: space-around;
+/*     display: flex; */
+/*     justify-content: space-around; */
     padding-top: 150px;
     font-size: 30px;
 
