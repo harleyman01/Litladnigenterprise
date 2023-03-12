@@ -55,12 +55,16 @@ section{
 
 }
 
+.motive{
+   padding-left:150px;
+}
+
 .note{
     background-color: rgba(14, 65, 206, 0.336);
     font-size: 30px;
     font-style: oblique;
     margin: 0px;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-left: 150px;
 }
 
@@ -68,6 +72,7 @@ section{
     width: 475px;
     height: 275px;
     margin-top: 150px;
+    margin-left: 250px;
 }
 
 .second-image{
