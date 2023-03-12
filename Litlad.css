@@ -56,7 +56,7 @@ section{
 }
 
 .motive{
-   padding-left:150px;
+   padding-left:350px;
 }
 
 .note{
@@ -64,7 +64,7 @@ section{
     font-size: 30px;
     font-style: oblique;
     margin: 0px;
-    padding-top: 10px;
+    padding-top: 0px;
     padding-left: 150px;
 }
 
