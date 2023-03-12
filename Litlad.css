@@ -72,7 +72,8 @@ section{
     width: 475px;
     height: 275px;
     margin-top: 150px;
-    margin-left: 750px;
+    margin-left: 950px;
+    border-radius: 100px;
 }
 
 .second-image{
